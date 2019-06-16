@@ -29,9 +29,9 @@
 
     ---
     
-    **DevOps Engineer**, Jasper Ubin   
+    **DevOps Engineer**, Jasper-Ubin   
     _Oct 2018 - Nov 2018_
-      - [Official Design Paper - Jasper–Ubin, Enabling Cross-Border High Value Transfer Using Distributed Ledger Technologies](http://www.mas.gov.sg/~/media/ProjectUbin/Jasper%20Ubin%20Design%20Paper.pdf) 
+      - Official Design Paper - [Jasper–Ubin, Enabling Cross-Border High Value Transfer Using Distributed Ledger Technologies](http://www.mas.gov.sg/~/media/ProjectUbin/Jasper%20Ubin%20Design%20Paper.pdf) 
       - Created CI/CD pipelines for deploying a 4 node Corda network on <mark>Azure
       - Empowered the team to test and deploy a <mark>Corda</mark> Hashed Time-Lock Contract application 
       - Integrated the <mark>Corda</mark> platform with a third party blockchain network (<mark>Quorum</mark>)
