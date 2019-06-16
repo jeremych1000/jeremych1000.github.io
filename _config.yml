@@ -29,7 +29,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   **Jeremy** is an **ambitious and capable DevOps Engineer at Accenture** with a complementary mix of technical expertise, teamwork experience, and communication skills. He is currently working with the latest <mark>production-grade DevOps technologies</mark>, making clients deliver value quicker and safer. 
 
-  <mark>Kubernetes</mark> (getting [CKAD certified](https://www.cncf.io/certification/ckad/) soon), <mark>Terraform</mark>, <mark>AWS/Azure/GCP</mark> (architecture, cloud-native design, IAM, security, etc.), <mark>Helm</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>git</mark>, and <mark>CI/CD</mark> are all concepts/tools Jeremy works with on a daily basis, among others.
+  <mark>Kubernetes</mark> (getting [CKAD certified](https://www.cncf.io/certification/ckad/) soon), <mark>Terraform</mark>, <mark>AWS</mark>/<mark>Azure</mark>/<mark>GCP</mark> (architecture, cloud-native design, IAM, security, etc.), <mark>Helm</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>git</mark>, and <mark>CI/CD</mark> are all concepts/tools Jeremy works with on a daily basis, among others.
 
   Jeremy's future aspirations include a mix of technicality and responsibility, preferably in disruptive technologies such as <mark>enterprise blockchain</mark>, <mark>DevOps</mark>, <mark>cloud security</mark>, <mark>automation</mark>, and <mark>technical architecture</mark>. 
 
