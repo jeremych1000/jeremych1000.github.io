@@ -1,0 +1,15 @@
+- layout: top-middle
+  company: Starling Bank
+  link: https://www.starlingbank.com/
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://settleup.starlingbank.com/chinghonjeremychan"><img src="starling.svg" alt="Starling"></a></center>
+- layout: top-middle
+  company: Monzo 
+  link: https://monzo.com/
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://monzo.me/jeremychan6/"><img src="monzo.svg" alt="Monzo"></a></center>
+- layout: top-middle
+  company: PayPal
+  link: https://www.paypal.com/uk/home
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://www.paypal.me/jeremych"><img src="paypal.svg" alt="PayPal"></a></center>
