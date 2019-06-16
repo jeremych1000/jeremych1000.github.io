@@ -84,3 +84,5 @@ exclude : [
   "scripts/",
   "docker-compose.yml",
   ]
+
+google_analytics: true
