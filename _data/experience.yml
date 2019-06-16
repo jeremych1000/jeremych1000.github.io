@@ -1,0 +1,70 @@
+# Experience template
+- layout: left
+  company: Accenture
+  link: https://www.accenture.com/
+  job_title: Tech Architecture Senior Analyst
+  dates: Dec 2018 - current
+  quote: >
+   London, United Kingdom
+  description: | # this will include new lines to allow paragraphs
+    **DevOps Engineer**, working for a multinational retailer  
+    _Dec 2018 - current_
+      - Ongoing development and operation of a microservice platform, using <mark>Azure Kubernetes Service (AKS)</mark>, for consumption by 100+ developers
+      - Designed and built a modern cloud-native DevOps tooling platform on <mark>Kubernetes</mark>, using all open source tools (SCM, CICD, Code Quality, Container Scanning, Artefact Management), with features such as <mark>single sign on</mark>, and one-click deploy using <mark>Terraform</mark>
+      - Analysed the client's tool usage across development teams, and presented a clear recommendation on short and long term strategies to client stakeholders
+      - Authored a 6000 word low level design document for the tooling platform (cloud design, networking and security, segregation, ops processes, IAM)
+      - Collaboratively defined infrastructure release strategies and implemented them using reusable <mark>Terraform</mark> modules, orchestrated by <mark>Jenkins</mark>
+      - Transformed several client processes into the DevOps mindset (e.g. implementing InfoSec changes through pull requests, RBAC + AD integration from a centralised directory, etc.)
+      - Empowered developers to utilise DevOps best practices by implementing shared libraries in <mark>Jenkins</mark> (container scanning, Kubernetes deployments, git tagging for environments, etc.)
+
+    ---
+
+    **DevOps Engineer**, working for an internal DevOps accelerator project  
+    _Nov 2018 - Nov 2018_
+      - Reduced time required to deploy a <mark>Corda</mark> network on <mark>Kubernetes</mark> from scratch by 90%
+      - Designed and delivered generic DevOps accelerators (<mark>Dockerfiles</mark>, <mark>Jenkinsfiles</mark>, <mark>Terraform</mark> modules across <mark>AWS</mark>, <mark>Azure</mark>, and <mark>GCP</mark>) to enable Accenture teams to start develop cutting-edge blockchain applications on day 1
+      - Worked with Accenture developers to create custom <mark>Helm</mark> charts to deploy their applications on Kubernetes
+      - Defined DevOps best practices and processes for blockchain projects that are past the proof-of-concept phase
+      - Delivered a working live demo deployed on <mark>AWS EKS</mark> of a trade finance blockchain application (mobile + web)
+
+    ---
+    
+    **DevOps Engineer**, Jasper Ubin   
+    _Oct 2018 - Nov 2018_
+      - [Official Design Paper - Jasper–Ubin, Enabling Cross-Border High Value Transfer Using Distributed Ledger Technologies](http://www.mas.gov.sg/~/media/ProjectUbin/Jasper%20Ubin%20Design%20Paper.pdf) 
+      - Created CI/CD pipelines for deploying a 4 node Corda network on <mark>Azure
+      - Empowered the team to test and deploy a <mark>Corda</mark> Hashed Time-Lock Contract application 
+      - Integrated the <mark>Corda</mark> platform with a third party blockchain network (<mark>Quorum</mark>)
+      - Delivered a working demo at the Singapore Fintech Festival 2018 to much interest and positive feedback
+      - Additional information from [R3](https://www.r3.com/blog/blockchains-and-central-banks-what-have-we-learnt/)
+
+- layout: left
+  company: 
+  link: 
+  job_title: Tech Architecture Analyst
+  dates: Oct 2017 - Dec 2018
+  quote: >
+   London, United Kingdom
+  description: | # this will include new lines to allow paragraphs
+    **Cloud Security Analyst**, working for an internal shared service  
+    _Nov 2017 - Sept 2018_
+      - Focus on automation to reduce external vulnerabilities of DevOps projects by 90%
+      - Developed custom checks for Netflix's open source cloud scanning tool ([Security Monkey](https://github.com/Netflix/security_monkey)) to constantly monitor client cloud accounts for security vulnerabilities
+      - Created <mark>Python</mark> scripts to automatically parse weekly exports into a centralised Splunk dashboard
+      - Offered drop-in sessions about cloud security to new projects to ensure projects are secure and compliant with company policies from day 1
+      - Presented client data protection updates to the internal shared service every quarter
+
+- layout: left
+  company: Afiniti
+  link: https://afiniti.com/
+  job_title: Global Deployment and Engineering (Project Management) Intern
+  dates: Jul 2017 - Sep 2018
+  quote: >
+   London, United Kingdom
+  description: | # this will include new lines to allow paragraphs
+      - Developed <mark>Python</mark> scripts to automatically create charts and diagrams for weekly leadership updates
+      - Generated several heat maps to unlock business insight using <mark>Tableau</mark> (data visualisation software)
+      - Collaborated on a low level design document for deploying Afiniti's solution into a client's custom environment
+
+- layout: top-middle
+  dates: Older positions are not shown, please refer to LinkedIn for details.

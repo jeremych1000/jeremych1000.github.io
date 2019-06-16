@@ -1,0 +1,13 @@
+# Education Template
+- layout: left
+  name: Imperial College, London, United Kingdom
+  dates: 2013 - 2017
+  qualification: Master of Engineering (M.Eng.), Electrical and Electronic Engineering
+  quote: 
+    
+  description: | # this will include new lines to allow paragraphs
+    - <mark>1st class honours</mark> in a 4 year <mark>Masters</mark> MEng course, which is accredited by the Institution of Engineering and Technology (IET)  
+    - Multitude of successful projects, from coursework, year group, to industrial projects  
+    - Final year project - [Distributed Road Traffic Speed Monitoring](https://github.com/jeremych1000/ee4-FYP) - P2P network leveraging <mark>Django</mark> as backend, frontend using <mark>Bootstrap</mark> and related frameworks, hosted on <mark>AWS</mark>  
+    - Project Manager for Machine Learning for [Medical Healthcare 'Sleepify' project](https://github.com/jeremych1000/ee4-mhml)  
+    - [High Performance Computing on AWS](https://github.com/jeremych1000/ee4-hpce)  

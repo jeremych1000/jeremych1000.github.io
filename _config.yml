@@ -1,1 +1,86 @@
-theme: jekyll-theme-minimal
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/favicon.ico
+
+# Personal info
+name: Jeremy Chan
+title: DevOps Engineer at Accenture
+email: jeremych@outlook.com
+# phone: Your phone number (optional)
+website: https://jeremych.dev
+source_code: https://github.com/jeremych1000/jeremych1000.github.io
+
+# Social links
+# twitter_username: jekyllrb
+github_username:  jeremych1000
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: mr.jeremy.chan
+linkedin_username: jeremych
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  **Jeremy** is an **ambitious and capable DevOps Engineer at Accenture** with a complementary mix of technical expertise, teamwork experience, and communication skills. He is currently working with the latest <mark>production-grade DevOps technologies</mark>, making clients deliver value quicker and safer. 
+
+  <mark>Kubernetes</mark> (getting [CKAD certified](https://www.cncf.io/certification/ckad/) soon), <mark>Terraform</mark>, <mark>AWS/Azure/GCP</mark> (architecture, cloud-native design, IAM, security, etc.), <mark>Helm</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>git</mark>, and <mark>CI/CD</mark> are all concepts/tools Jeremy works with on a daily basis, among others.
+
+  Jeremy's future aspirations include a mix of technicality and responsibility, preferably in disruptive technologies such as <mark>enterprise blockchain</mark>, <mark>DevOps</mark>, <mark>cloud security</mark>, <mark>automation</mark>, and <mark>technical architecture</mark>. 
+
+  Jeremy graduated a Masters (1st class honours) in Electrical and Electronic Engineering from Imperial College, London.
+
+# Projects Section
+# projects_title: Personal Side Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Some Personal Fun Facts #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  - I own a pet hedgehog 🦔🦔
+  - I am Time Magazine's Person of the Year 2006
+  - I love portrait mode on my Google Pixel 3 + Adobe Lightroom + Lens Distortions
+  - I have a diploma in violin, and went on tour with the Imperial College Symphony Orchestra twice
+  - I love Windows Subsystem for Linux
+  - I will sometimes buy things just because they are on sale
+  - I sleep with the curtains open
+  - I listen to EDM / chillstep a lot
+  - I enjoy cooking fancy with sous vide + cast iron
+  - I support Chelsea FC because of the colour blue + cardboard + Ferrero Rocher
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
