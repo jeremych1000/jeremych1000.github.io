@@ -1,7 +1,32 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
-{%- include head.html -%}
+<head>
+  {%- include head.html -%}
+
+  <script type="text/javascript">
+    var searchParams = new URLSearchParams(window.location.search)
+    var amount = searchParams.get('v');
+    
+    console.log(amount);
+    console.log($.isNumeric(amount))
+
+    if (amount !== null && $.isNumeric(amount))  {
+      $(document).ready(function () {
+        $("#starling").each(function () {
+          this.href += '?amount=' + amount;
+        })
+        $("#monzo").each(function () {
+          this.href += amount;
+        })
+        $("#paypal").each(function () {
+          this.href += amount;
+        })
+      });
+    }
+  </script>
+
+</head>
 
 <body>
 
