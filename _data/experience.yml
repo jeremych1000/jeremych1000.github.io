@@ -1,11 +1,9 @@
 # Experience template
 - layout: left
   company: Accenture
-  link: https://www.accenture.com/
+  link: London, United Kingdom
   job_title: DevOps Engineer
-  dates: Dec 2018 - current
-  quote: >
-   London, United Kingdom
+  dates: Dec 2017 - current 
   description: | # this will include new lines to allow paragraphs
     **DevOps Engineer**, working for a multinational retailer  
     _Dec 2018 - current_
@@ -39,15 +37,9 @@
       - Delivered a working demo at the Singapore Fintech Festival 2018 to much interest and positive feedback
       - Additional information from [R3](https://www.r3.com/blog/blockchains-and-central-banks-what-have-we-learnt/)
 
-- layout: left
-  company: 
-  link: 
-  job_title: Tech Architecture Analyst
-  dates: Oct 2017 - Dec 2018
-  quote: >
-   London, United Kingdom
-  description: | # this will include new lines to allow paragraphs
-    **Cloud Security Analyst**, working for an internal shared service  
+    ---
+
+    **Cloud Security Engineer**, working for an internal shared service  
     _Nov 2017 - Sept 2018_
       - Focus on automation to reduce external vulnerabilities of DevOps projects by 90%
       - Developed custom checks for Netflix's open source cloud scanning tool ([Security Monkey](https://github.com/Netflix/security_monkey)) to constantly monitor client cloud accounts for security vulnerabilities
@@ -55,11 +47,9 @@
 
 - layout: left
   company: Afiniti
-  link: https://afiniti.com/
+  link: London, United Kingdom
   job_title: Global Deployment and Engineering (Project Management) Intern
   dates: Jul 2017 - Sep 2018
-  quote: >
-   London, United Kingdom
   description: | # this will include new lines to allow paragraphs
       - Developed <mark>Python</mark> scripts to automatically create charts and diagrams for weekly leadership updates
       - Generated several heat maps to unlock business insight using <mark>Tableau</mark> (data visualisation software)
