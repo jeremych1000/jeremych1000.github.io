@@ -10,12 +10,13 @@
     **DevOps Engineer**, working for a multinational retailer  
     _Dec 2018 - current_
       - Ongoing development and operation of a microservice platform, using <mark>Azure Kubernetes Service (AKS)</mark>, for consumption by 100+ developers
-      - Designed and built a modern cloud-native DevOps tooling platform on <mark>Kubernetes</mark>, using all open source tools (SCM, CICD, Code Quality, Container Scanning, Artefact Management), with features such as <mark>single sign on</mark>, and one-click deploy using <mark>Terraform</mark>
-      - Analysed the client's tool usage across development teams, and presented a clear recommendation on short and long term strategies to client stakeholders
-      - Authored a 6000 word low level design document for the tooling platform (cloud design, networking and security, segregation, ops processes, IAM)
-      - Collaboratively defined infrastructure release strategies and implemented them using reusable <mark>Terraform</mark> modules, orchestrated by <mark>Jenkins</mark>
-      - Transformed several client processes into the DevOps mindset (e.g. implementing InfoSec changes through pull requests, RBAC + AD integration from a centralised directory, etc.)
-      - Empowered developers to utilise DevOps best practices by implementing shared libraries in <mark>Jenkins</mark> (container scanning, Kubernetes deployments, git tagging for environments, etc.)
+      - Experience with implementing modern best practices including cloud native architecture and design, network segregation, <mark>Kubernetes</mark> design and backups, least privilege RBAC models (cloud account access, <mark>Helm</mark>/<mark>Tiller</mark>), release and branching strategies for infrastructure and apps
+      - Designed and built a modern cloud-native DevOps tooling platform on <mark>Kubernetes</mark>, using all open source tools (SCM, CICD, Code Quality, Container Scanning, Artefact Management, etc.), with features such as <mark>single sign on</mark>, automated certificate management, and one-click deploy using <mark>Terraform</mark>
+      - Analysed the client's tool usage across multiple development teams, and presented a clear recommendation on short and long term strategies to client stakeholders
+      - Authored a 7000 word low level design document for the tooling platform (cloud design, networking and security, segregation, ops processes, IAM, etc.)
+      - Contributed valuable and reusable <mark>Terraform</mark> modules, as well as <mark>Jenkins</mark> shared libraries
+      - Transformed several client processes into the DevOps mindset (implementing InfoSec changes through pull requests, RBAC + AD integration from a centralised directory, etc.)
+      - Empowered developers to utilise DevOps best practices by empowering them to write their own pipelines, leveraging shared library functions in <mark>Jenkins</mark> for container scanning, <mark>Kubernetes</mark> deployments using <mark>Helm</mark>, <mark>git</mark> tagging for environments, etc.
 
     ---
 
@@ -51,8 +52,6 @@
       - Focus on automation to reduce external vulnerabilities of DevOps projects by 90%
       - Developed custom checks for Netflix's open source cloud scanning tool ([Security Monkey](https://github.com/Netflix/security_monkey)) to constantly monitor client cloud accounts for security vulnerabilities
       - Created <mark>Python</mark> scripts to automatically parse weekly exports into a centralised Splunk dashboard
-      - Offered drop-in sessions about cloud security to new projects to ensure projects are secure and compliant with company policies from day 1
-      - Presented client data protection updates to the internal shared service every quarter
 
 - layout: left
   company: Afiniti

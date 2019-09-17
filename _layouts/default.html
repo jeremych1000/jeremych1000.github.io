@@ -18,6 +18,10 @@
         {%- include experience.html -%}
       {%- endif -%}   
 
+      {%- if site.data.certifications.size > 0 -%}
+        {%- include certifications.html -%}
+      {%- endif -%}
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}

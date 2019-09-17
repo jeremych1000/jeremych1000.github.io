@@ -1,0 +1,7 @@
+# Certifications Template
+- layout: left
+  name: Certified Kubernetes Application Developer (CKAD)    
+  description: | # this will include new lines to allow paragraphs
+    - Certified by the Cloud Native Computing Foundation (CNCF)
+    - Valid from Aug 13, 2019 to Aug 13, 2021
+    - CKAD-1900-001173-0100 (verified by [Acclaim](https://www.youracclaim.com/badges/ae8c7c48-3c02-4e7e-97fd-689c634d8d39))
