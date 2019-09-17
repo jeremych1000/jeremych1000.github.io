@@ -24,7 +24,7 @@ linkedin_username: jeremych
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   **Jeremy** is a **CKAD certified, ambitious, and capable DevOps Engineer at Accenture** with a complementary mix of technical expertise, teamwork experience, and communication skills. He has experience with a wide range of DevOps technologies, culture, and processes, enabling clients to deliver value quicker and safer. 
