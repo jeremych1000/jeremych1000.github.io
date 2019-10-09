@@ -2,11 +2,19 @@
 - layout: left
   company: Accenture
   link: London, United Kingdom
-  job_title: DevOps Engineer
+  job_title: 
   dates: Dec 2017 - current 
   description: | # this will include new lines to allow paragraphs
+    **DevOps Team Lead**, working for a blockchain project  
+    _Sept 2019 - current_
+      - Leading and upskilling a team of 5 in the creation of a <mark>Kubernetes</mark> platform, designed to be cloud-agnostic as well as CI/CD agnostic through combining the use of <mark>Ansible</mark> and <mark>Terraform</mark>
+      - Engaged in technical architecture design of core components such as the cluster itself and Hashicorp <mark>Vault</mark>
+      - Improved sprint velocity by 30% through streamlining agile ways of working
+
+    ---
+    
     **DevOps Engineer**, working for a multinational retailer  
-    _Dec 2018 - current_
+    _Dec 2018 - Sept 2019_
       - Ongoing development and operation of a microservice platform, using <mark>Azure Kubernetes Service (AKS)</mark>, for consumption by 100+ developers
       - Experience with implementing modern best practices, including cloud native architecture and design, network segregation, <mark>Kubernetes</mark> design and backups, least privilege RBAC models (cloud account access, <mark>Helm</mark>/<mark>Tiller</mark>), and release and branching strategies for infrastructure and apps
       - Designed and built a modern cloud-native DevOps tooling platform on <mark>Kubernetes</mark>, using all open source tools (SCM, CICD, Code Quality, Container Scanning, Artefact Management, etc.), with features such as <mark>single sign on</mark>, automated certificate management, and one-click deploy using <mark>Terraform</mark>
@@ -48,7 +56,7 @@
 - layout: left
   company: Afiniti
   link: London, United Kingdom
-  job_title: Global Deployment and Engineering (Project Management) Intern
+  job_title: Global Deployment and Engineering Intern
   dates: Jul 2017 - Sep 2017
   description: | # this will include new lines to allow paragraphs
       - Developed <mark>Python</mark> scripts to automatically create charts and diagrams for weekly leadership updates
