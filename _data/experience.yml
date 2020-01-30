@@ -1,9 +1,18 @@
 # Experience template
+
+- layout: left
+  company: OakNorth
+  link: London, United Kingdom
+  job_title: DevOps Engineer
+  dates: Jan 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    - DevOps Engineer
+      
 - layout: left
   company: Accenture
   link: London, United Kingdom
   job_title: 
-  dates: Dec 2017 - current 
+  dates: Dec 2017 - Jan 2020 
   description: | # this will include new lines to allow paragraphs
     **DevOps Specialist**, working for a blockchain project  
     _Sept 2019 - current_
