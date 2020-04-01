@@ -8,6 +8,13 @@
   description: | # this will include new lines to allow paragraphs
     **DevOps Engineer**
     _Jan 2020 - Present_
+      Working with the following on a daily basis:
+      - Kubernetes, Helm, Docker
+      - CI/CD pipelines
+      - Terraform
+      - AWS
+      - GitHub, CircleCI
+      - Python and Bash scripting
       
 - layout: left
   company: Accenture
