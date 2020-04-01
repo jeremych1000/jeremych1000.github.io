@@ -3,11 +3,15 @@
 - layout: left
   company: OakNorth
   link: London, United Kingdom
-  job_title: DevOps Engineer
+  job_title: 
   dates: Jan 2020 - Present
   description: | # this will include new lines to allow paragraphs
     **DevOps Engineer**
+
+    
     _Jan 2020 - Present_
+
+
       Working with the following on a daily basis:
       - Kubernetes, Helm, Docker
       - CI/CD pipelines
