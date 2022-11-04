@@ -1,13 +1,31 @@
 # Experience template
 
 - layout: left
+  company: Millennium Management
+  link: London, United Kingdom
+  job_title: 
+  dates: Mar 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    **Platform Engineer**
+    _Mar 2022 - Present_
+      All things Kubernetes.
+      
+      Working with the following on a daily basis:
+      - Kubernetes, Helm, Docker
+      - CI/CD pipelines
+      - Terraform
+      - AWS
+      - GitHub, CircleCI
+      - Python and Bash scripting
+      
+- layout: left
   company: OakNorth
   link: London, United Kingdom
   job_title: 
-  dates: Jan 2020 - Present
+  dates: Jan 2020 - Mar 2021
   description: | # this will include new lines to allow paragraphs
     **DevOps Engineer**
-    _Jan 2020 - Present_
+    _Jan 2020 - Mar 2021_
 
       Working with the following on a daily basis:
       - Kubernetes, Helm, Docker
