@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Jeremy Chan
-title: DevOps Engineer at OakNorth
+title: Platform Engineer at Millennium Management
 email: jeremych@outlook.com
 # phone: Your phone number (optional)
 website: https://jeremych.dev
@@ -27,7 +27,7 @@ linkedin_username: jeremych
 about_title: Summary
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  **Jeremy** is a **[CKAD certified](https://www.cncf.io/certification/ckad/), ambitious, and capable DevOps Engineer at OakNorth** with a complementary mix of technical expertise, teamwork experience, and communication skills. He has experience with a wide range of DevOps technologies, culture, and processes, enabling clients to deliver value quicker and safer. 
+  **Jeremy** is a **[CKAD certified](https://www.cncf.io/certification/ckad/), ambitious, and capable Platform Engineer at Millennium Management** with a complementary mix of technical expertise, teamwork experience, and communication skills. He has experience with a wide range of DevOps technologies, culture, and processes, enabling clients to deliver value quicker and safer. 
 
   <mark>Kubernetes</mark>, <mark>Terraform</mark>, <mark>AWS</mark>/<mark>Azure</mark>/<mark>GCP</mark> (architecture, cloud-native design, IAM, security, etc.), <mark>Helm</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>git</mark>, and <mark>CI/CD</mark> are all concepts/tools Jeremy works with on a daily basis, among others.
 
