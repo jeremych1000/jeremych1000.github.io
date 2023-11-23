@@ -9,6 +9,11 @@
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://monzo.me/jeremychan6/" id="monzo"><img src="monzo.svg" alt="Monzo"></a></center>
 - layout: top-middle
+  company: Revolut 
+  link: https://revolut.com/
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://revolut.me/jeremychan" id="revolut"><img src="revolut.svg" alt="Revolut"></a></center>
+- layout: top-middle
   company: PayPal
   link: https://www.paypal.com/uk/home
   description: | # this will include new lines to allow paragraphs
