@@ -1,16 +1,16 @@
 - layout: top-middle
   company: Starling Bank
-  link: Supports ALL UK debit cards
+  link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://settleup.starlingbank.com/chinghonjeremychan" id="starling"><img src="starling.svg" alt="Starling"></a></center>
 - layout: top-middle
   company: Monzo 
-  link: Supports ALL UK debit cards
+  link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://monzo.me/jeremychan6/" id="monzo"><img src="monzo.svg" alt="Monzo"></a></center>
 - layout: top-middle
   company: Revolut 
-  link: Supports ALL UK debit cards
+  link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://revolut.me/jeremychan" id="revolut"><img src="revolut.svg" alt="Revolut"></a></center>
 - layout: top-middle
