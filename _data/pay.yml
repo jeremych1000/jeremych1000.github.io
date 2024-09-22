@@ -1,20 +1,20 @@
 - layout: top-middle
   company: Starling Bank
-  link: https://www.starlingbank.com/
+  link: https://www.starlingbank.com/ - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://settleup.starlingbank.com/chinghonjeremychan" id="starling"><img src="starling.svg" alt="Starling"></a></center>
 - layout: top-middle
   company: Monzo 
-  link: https://monzo.com/
+  link: https://monzo.com/ - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://monzo.me/jeremychan6/" id="monzo"><img src="monzo.svg" alt="Monzo"></a></center>
 - layout: top-middle
   company: Revolut 
-  link: https://revolut.com/
+  link: https://revolut.com/ - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://revolut.me/jeremychan" id="revolut"><img src="revolut.svg" alt="Revolut"></a></center>
 - layout: top-middle
   company: PayPal
-  link: https://www.paypal.com/uk/home
+  link: https://www.paypal.com/uk/home - please click "Friends and Family" and NOT "Business / Buying services"
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://www.paypal.com/paypalme/jeremych1000/" id="paypal"><img src="paypal.svg" alt="PayPal"></a></center>
