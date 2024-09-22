@@ -15,6 +15,6 @@
     <center><a href="https://revolut.me/jeremychan" id="revolut"><img src="revolut.svg" alt="Revolut"></a></center>
 - layout: top-middle
   company: PayPal
-  link: Please click "Friends and Family" and NOT "Business / Buying services"
+  link: 0% fee using Friends and Family / 3.6% fee using Business
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://www.paypal.com/paypalme/jeremych1000/" id="paypal"><img src="paypal.svg" alt="PayPal"></a></center>
