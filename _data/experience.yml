@@ -1,23 +1,30 @@
 # Experience template
 
 - layout: left
+  company: Quadrature Capital
+  link: London, United Kingdom
+  job_title: 
+  dates: Apr 2024 - Present
+  description: | # this will include new lines to allow paragraphs
+    **Platform Engineer**
+    _Apr 2024 - Present_
+    
+      All things Kubernetes and platform.
+      
+- layout: left
   company: Millennium Management
   link: London, United Kingdom
   job_title: 
-  dates: Mar 2021 - Present
+  dates: Mar 2021 - Apr 2024
   description: | # this will include new lines to allow paragraphs
     **Platform Engineer**
-    _Mar 2021 - Present_
+    _Mar 2021 - Apr 2024_
     
-      All things Kubernetes.
-      
-      Working with the following on a daily basis:
-      - Kubernetes, Helm, Docker
-      - CI/CD pipelines
-      - Terraform
-      - AWS
-      - GitHub, CircleCI
-      - Python and Bash scripting
+      All things Kubernetes and the cloud - currently building out a next generation Kubernetes platform to support Millennium’s expansion, targeting the biggest pain points of the current platform.
+
+      - Continuous improvement, development, monitoring, and management of Millennium’s multi-tenant Kubernetes platform for its portfolio managers, hosted on AWS
+      - End to end involvement in infrastructure, security, auth, observability, releases, deployments, and development
+      - Constant involvement in architecture review, design proposals, change processes, incident post-mortems, and communication channels
       
 - layout: left
   company: OakNorth
