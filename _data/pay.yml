@@ -22,22 +22,21 @@
   link: 0% fee using Friends and Family / 3.6% fee using Business
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://www.paypal.com/paypalme/jeremych1000/" id="paypal"><img src="paypal.svg" alt="PayPal"></a></center>
-# TODO: replace VENMO_HANDLE, CASHAPP_CASHTAG and ZELLE_EMAIL_OR_PHONE with real details
 - region: us
   layout: top-middle
   company: Venmo
   link: 0% fee from bank or debit card / 3% fee from credit card
   description: | # this will include new lines to allow paragraphs
-    <center><a href="https://venmo.com/VENMO_HANDLE" id="venmo"><img src="venmo.svg" alt="Venmo"></a></center>
+    <center><a href="https://account.venmo.com/u/jeremych1" id="venmo"><img src="venmo.svg" alt="Venmo"></a></center>
 - region: us
   layout: top-middle
   company: Cash App
   link: 0% fee from bank or debit card / 3% fee from credit card
   description: | # this will include new lines to allow paragraphs
-    <center><a href="https://cash.app/$CASHAPP_CASHTAG/" id="cashapp"><img src="cashapp.svg" alt="Cash App"></a></center>
+    <center><a href="https://cash.app/$jeremych1/" id="cashapp"><img src="cashapp.svg" alt="Cash App"></a></center>
 - region: us
   layout: top-middle
   company: Zelle
-  link: 0% fee - send from your bank app to ZELLE_EMAIL_OR_PHONE
+  link: 0% fee - send from your bank app to jeremych@outlook.com
   description: | # this will include new lines to allow paragraphs
     <center><img src="zelle.svg" alt="Zelle"></center>
