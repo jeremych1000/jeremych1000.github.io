@@ -1,20 +1,42 @@
-- layout: top-middle
+- region: uk
+  layout: top-middle
   company: Starling Bank
   link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://settleup.starlingbank.com/chinghonjeremy-chan-3f346c/pay" id="starling"><img src="starling.svg" alt="Starling"></a></center>
-- layout: top-middle
-  company: Monzo 
+- region: uk
+  layout: top-middle
+  company: Monzo
   link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://monzo.me/jeremychan6/" id="monzo"><img src="monzo.svg" alt="Monzo"></a></center>
-- layout: top-middle
-  company: Revolut 
+- region: uk
+  layout: top-middle
+  company: Revolut
   link: 0% fee - supports ALL UK debit cards
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://revolut.me/jeremychan" id="revolut"><img src="revolut.svg" alt="Revolut"></a></center>
-- layout: top-middle
+- region: uk
+  layout: top-middle
   company: PayPal
   link: 0% fee using Friends and Family / 3.6% fee using Business
   description: | # this will include new lines to allow paragraphs
     <center><a href="https://www.paypal.com/paypalme/jeremych1000/" id="paypal"><img src="paypal.svg" alt="PayPal"></a></center>
+- region: us
+  layout: top-middle
+  company: Venmo
+  link: 0% fee from bank or debit card / 3% fee from credit card
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://account.venmo.com/u/jeremych1" id="venmo"><img src="venmo.svg" alt="Venmo"></a></center>
+- region: us
+  layout: top-middle
+  company: Cash App
+  link: 0% fee from bank or debit card / 3% fee from credit card
+  description: | # this will include new lines to allow paragraphs
+    <center><a href="https://cash.app/$jeremych1/" id="cashapp"><img src="cashapp.svg" alt="Cash App"></a></center>
+- region: us
+  layout: top-middle
+  company: Zelle
+  link: 0% fee - send from your bank app to jeremych@outlook.com
+  description: | # this will include new lines to allow paragraphs
+    <center><img src="zelle.svg" alt="Zelle"></center>

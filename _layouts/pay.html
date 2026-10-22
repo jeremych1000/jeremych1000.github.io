@@ -22,6 +22,12 @@
         $("#paypal").each(function () {
           this.href += amount;
         })
+        $("#venmo").each(function () {
+          this.href = this.href.replace('/u/', '/') + '?txn=pay&amount=' + amount;
+        })
+        $("#cashapp").each(function () {
+          this.href += amount;
+        })
       });
     }
   </script>
